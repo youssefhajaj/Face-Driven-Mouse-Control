@@ -2,6 +2,14 @@
 
 This project implements a real-time face tracking application using OpenCV and MediaPipe. It captures video from the webcam and utilizes facial landmarks to control the mouse cursor on the screen. The application detects blinks to simulate mouse clicks, providing a hands-free interaction experience. Perfect for accessibility applications and innovative user interfaces.
 
+## Demo Video
+
+Watch the demo of the application in action:
+
+[Download Demo Video](video/v.mp4)
+
+
+
 ## Features
 
 - **Real-time face tracking**: Uses MediaPipe to detect facial landmarks.
