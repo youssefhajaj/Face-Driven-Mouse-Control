@@ -6,7 +6,7 @@ This project implements a real-time face tracking application using OpenCV and M
 
 Watch the demo of the application in action:
 
-[Download Demo Video](video/v.mp4)
+[Download Demo Video](vedio/v.mp4)
 
 
 
